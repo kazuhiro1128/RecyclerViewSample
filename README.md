@@ -1,2 +1,2 @@
 # RecyclerViewSample
-・とあるアイドルの画像をpicasomで非同期で取得して、RecyclerViewでリスト表示するサンプルです
+とあるアイドルの画像をpicasoで非同期で取得して、RecyclerViewでリスト表示するサンプルです
